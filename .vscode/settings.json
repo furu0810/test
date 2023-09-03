@@ -1,9 +1,10 @@
 {
     "java.project.sourcePaths": [
         "src",
+        "project/practice_4",
         "project/practice_3",
         "project/practice_2",
-        "project/practice_1"
+        "project/practice_1",
     ],
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [

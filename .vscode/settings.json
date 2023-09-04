@@ -1,6 +1,7 @@
 {
     "java.project.sourcePaths": [
         "src",
+        "project/practice_5",
         "project/practice_4",
         "project/practice_3",
         "project/practice_2",

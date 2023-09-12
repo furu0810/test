@@ -48,4 +48,29 @@ java -version
 
 1.[VSCode](https://code.visualstudio.com/)をインストールする。
 
-2.
+2.拡張機能`Extension Pack for Java`をインストールする。
+
+![image](https://github.com/furu0810/test/assets/58910420/1238f44f-e0ea-4c96-aaaa-90ade5384a7e)
+
+3.VSCodeでJAVA_HOMEを設定する。
+
+環境変数で設定したJDKのフルパスをsettings.jsonに指定し、設定を保存後に再起動する。
+
+・記入例
+```
+"java.home": "C:\\Program Files\\OpenJDK\\jdk-15.0.1",
+```
+
+4.サンプルプログラムを作成する。
+
+`CTRL+SHIFT+P`で検索ボックスを表示後、Javaと入力する。
+
+![image](https://github.com/furu0810/test/assets/58910420/104fc713-ace0-45f2-be6d-10149a0e86ec)
+
+
+`Java:Create Java Project...`で`Enter`を押す。
+
+`No build toolsで`Enter`を押す。
+
+最後に`Project名`を選択する。
+

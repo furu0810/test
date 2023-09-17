@@ -2,11 +2,6 @@ import java.util.Scanner;
 
 public class test6 {
     public static void main(String[] args) {
-
-        //四則演算のコンソールアプリ
-        //①文字列を入力する
-        //②入力した文字列を数値に変換する
-        //③1-4の選択した数字に応じて四則演算のいずれかで値を計算する
         
         System.out.println("計算したい数字を入力してください。");
 
@@ -39,6 +34,6 @@ public class test6 {
                 double division = dob_1 / dob_2 ;
                 System.out.println("割り算：" + division);
                 break;            
-        }
+        } 
     }
 }
